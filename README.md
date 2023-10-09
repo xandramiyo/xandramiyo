@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on redesigning my projects<br>🌱 I'm currently learning C#, Typescript, and Blender<br>💻 My portfolio can be found at https://sumiyoshi.dev<br>⚡ A fun fact is I studied abroad in Japan
+🔭 I'm currently working on redesigning my projects<br>🌱 I'm currently learning Ruby, Godot, and pixel art! <br>💻 My portfolio can be found at https://sumiyoshi.dev<br>⚡ A fun fact is I studied abroad in Japan
 
 
 ## 🌐 Socials:
